@@ -1,2 +1,5 @@
 1 - java
 2 - Selenium
+
+3 - TestNG
+4 - Jenkins
